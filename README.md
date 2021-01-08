@@ -1,5 +1,7 @@
 ### The API key for this project has been regenerated for security purposes, and the one embedded here will expire 12/12/20, rendering the application defunct without an active key.
 
+A continuation of this project can be found <a href="https://github.com/seanthayer/PlaceKeeper">here</a>. :)
+
 # Team 1
 
 Sean Thayer-Freeman: thayerfs@oregonstate.edu
